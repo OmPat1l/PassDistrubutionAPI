@@ -78,7 +78,7 @@ User enters MIS number and email: A web or mobile interface will allow the user 
 
 5)Send pass to user: Once the pass has been generated, it is sent to the user's email using the third-party email service API.
 
-6)Load balancing and servers: The system should be designed to handle 500 concurrent users. Load balancers and multiple servers can be used to distribute the load across different machines, ensuring that the system remains responsive and available.
+6)Load balancing and servers: The system should be designed to handle 500 - 1500 concurrent users. Load balancers and multiple servers can be used to distribute the load across different machines, ensuring that the system remains responsive and available.
 
 7)External API for sending mail: A third-party email service API can be used to send OTPs and passes to users via email. Some popular options include SendGrid, Mailgun, and Amazon SES.
 
