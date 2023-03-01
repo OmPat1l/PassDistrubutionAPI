@@ -1,5 +1,5 @@
 # PassDistrubutionAPI
-# MS-API
+
 
 
 Usually every year, passes for various events, organised by in my college are distributed in offline mode, which is very tedious process demanding man power and time.
