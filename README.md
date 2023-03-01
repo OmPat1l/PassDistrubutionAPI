@@ -13,6 +13,7 @@ app.js is for the client side.
 The api is developed in express over node js (Install all the dependencies required first)
 
 1)Turn on both app and admin js using command {node fileName}
+(ports may change in future commits)
 2)Use POST on "/mindspark/v1/data" on desired port say http://localhost:3003 in this case
 3)POST {mail:val,mis:val}
 4)if the given info is present in data base with hasDownloaded parameter to be false then the api generates a 6 digit random otp
